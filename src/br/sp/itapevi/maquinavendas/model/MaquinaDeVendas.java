@@ -1,4 +1,4 @@
-package br.sp.itapevi.model;
+package br.sp.itapevi.maquinavendas.model;
 
 import java.util.Scanner;
 

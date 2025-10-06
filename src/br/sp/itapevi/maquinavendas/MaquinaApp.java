@@ -1,5 +1,5 @@
-package br.sp.itapevi;
-import br.sp.itapevi.model.MaquinaDeVendas;
+package br.sp.itapevi.maquinavendas;
+import br.sp.itapevi.maquinavendas.model.MaquinaDeVendas;
 
 public class MaquinaApp{
 
