@@ -1,3 +1,6 @@
+package br.sp.itapevi;
+import br.sp.itapevi.model.MaquinaDeVendas;
+
 public class MaquinaApp{
 
     public static void main(String[] args) {
@@ -5,7 +8,7 @@ public class MaquinaApp{
 
         MaquinaDeVendas maquina = new MaquinaDeVendas();
 
-        maquina.EntradaDeBebida();
+        maquina.obterDadosDeVendas();
 
     }
 
